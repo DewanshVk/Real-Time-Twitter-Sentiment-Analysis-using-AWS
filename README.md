@@ -17,7 +17,7 @@ This project demonstrates a real-time data pipeline that performs sentiment anal
 
 ## 📌 Project Architecture
 
-![Architecture](Screenshots/architecture.png)
+![Architecture](architecture.png)
 
 ### Steps:
 1. **Twitter API** – Tweets are fetched using the Twitter Developer API with specific keywords or hashtags.
@@ -48,12 +48,7 @@ Below is the simplified structure of the processed tweet data stored in S3 and q
   "text": "This product is amazing!",
   "timestamp": "2025-04-22T10:45:00Z",
   "keyword": "product",
-  "sentiment": "POSITIVE",
-  "sentiment_score": {
-    "Positive": 0.97,
-    "Negative": 0.01,
-    "Neutral": 0.02,
-    "Mixed": 0.00
+  "sentiment": "POSITIVE"
   }
 }
 ```
