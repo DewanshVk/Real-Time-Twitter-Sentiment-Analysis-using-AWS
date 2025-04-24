@@ -28,15 +28,6 @@ This project demonstrates a real-time data pipeline that performs sentiment anal
 6. **Power BI** – Connects to Athena using ODBC to visualize sentiment trends.
 
 ---
-
-## ⚙️ Lambda Function
-
-Python script to fetch tweets and analyze sentiment.
-
-`lambda_function/lambda_function.py`
-
----
-
 ## 🧬 Data Model
 
 Below is the simplified structure of the processed tweet data stored in S3 and queried via Athena:
@@ -72,16 +63,16 @@ GROUP BY
 
 ## 🖼️ Screenshots
 
-- **Lambda Logs**: `Screenshots/cloudwatch_logs.png`
-- **Lambda Running**: `Screenshots/lambda_running.png`
-- **S3 Output**: `Screenshots/S3_tweets.png`
+- **Lambda Logs**: (Screenshots/cloudwatch_logs.png)
+- **Lambda Running**: (Screenshots/lambda_running.png)
+- **S3 Output**: (Screenshots/S3_tweets.png)
 ---
 
-- **Data Flow**: `Screenshots/Dataflow.png`
+- **Data Flow**: (Screenshots/Dataflow.png)
 
 ## 📦 Data Flow
 
-: `Screenshots/Dataflow.png`
+: (Screenshots/Dataflow.png)
 
 ---
 
