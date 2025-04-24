@@ -68,8 +68,6 @@ GROUP BY
 - **S3 Output**: ![Alt text](Screenshots/S3_tweets.png)
 ---
 
-- **Data Flow**: ![Alt text](Screenshots/Dataflow.png)
-
 ## 📦 Data Flow
 
 : ![Alt text](Screenshots/Dataflow.png)
