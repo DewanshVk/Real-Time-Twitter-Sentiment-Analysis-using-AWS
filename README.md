@@ -63,23 +63,23 @@ GROUP BY
 
 ## 🖼️ Screenshots
 
-- **Lambda Logs**: (Screenshots/cloudwatch_logs.png)
-- **Lambda Running**: (Screenshots/lambda_running.png)
-- **S3 Output**: (Screenshots/S3_tweets.png)
+- **Lambda Logs**: ![Alt text](Screenshots/cloudwatch_logs.png)
+- **Lambda Running**: ![Alt text](Screenshots/lambda_running.png)
+- **S3 Output**: ![Alt text](Screenshots/S3_tweets.png)
 ---
 
-- **Data Flow**: (Screenshots/Dataflow.png)
+- **Data Flow**: ![Alt text](Screenshots/Dataflow.png)
 
 ## 📦 Data Flow
 
-: (Screenshots/Dataflow.png)
+: ![Alt text](Screenshots/Dataflow.png)
 
 ---
 
 ## 📊 Dashboard
 
 Power BI connects directly to Athena using ODBC and provides real-time insights on public sentiment.
-- **Power BI Dashboard**: `Screenshots/powerbi_dashboard.png`
+- **Power BI Dashboard**: ![Alt text](Screenshots/powerbi_dashboard.png)
 ---
 
 
